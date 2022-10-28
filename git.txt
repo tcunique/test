@@ -20,5 +20,8 @@ index 0000000..303a213
 +5) toujours la même erreur
 +
 
-Cette commande place HEAD dans main
+Cette commande place HEAD dans main et montre l'historique de ce qui s'est passé dans le fichier
+
+9) git diff permet de montrer la différence entre l'ancienne version et la nouvelle qu'on a commit
+Modification
 
