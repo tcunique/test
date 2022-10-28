@@ -1,4 +1,24 @@
 Exercice 1 :
 4) Fatal error
 5) toujours la même erreur
+7) On branch main
+nothing to commit, working tree clean
+8)commit 16be6b43b07ed28b7361216c942103f78a0c9c8a (HEAD -> main)
+Author: tcunique <thomaschenpro@gmail.com>
+Date:   Fri Oct 28 09:35:10 2022 +0200
+
+    nouveau
+
+diff --git a/git.txt b/git.txt
+new file mode 100644
+index 0000000..303a213
+--- /dev/null
++++ b/git.txt
+@@ -0,0 +1,4 @@
++Exercice 1 :
++4) Fatal error
++5) toujours la même erreur
++
+
+Cette commande place HEAD dans main
 
