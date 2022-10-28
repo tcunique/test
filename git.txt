@@ -24,4 +24,5 @@ Cette commande place HEAD dans main et montre l'historique de ce qui s'est pass√
 
 9) git diff permet de montrer la diff√©rence entre l'ancienne version et la nouvelle qu'on a commit
 Modification
+Modification 2
 
